@@ -8,12 +8,13 @@ It demonstrates web development, UI design, and status monitoring concepts.
 
 ## Features
 
-- Dashboard displaying the status of services  
-- Cards for active and inactive services  
-- Clean and responsive user interface  
+- Dashboard displaying the status of services
+- Cards for active and inactive services
+- Clean and responsive user interface
 - Built using modern web technologies (Next.js, React, TypeScript, Tailwind CSS)
 
 ---
+
 ## Project Structure
 
 ```text
@@ -29,10 +30,10 @@ src/
 
 ## Technologies Used
 
-- Next.js  
-- React  
-- TypeScript  
-- Tailwind CSS  
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
 
 ---
 
@@ -79,14 +80,14 @@ It demonstrates how a real-time monitoring dashboard can be implemented using mo
 
 ## Notes
 
-- This project is intended for **learning purposes and university assignments**.  
+- This project is intended for **learning purposes and university assignments**.
 - All core functionality and UI are recreated from the original OpenStatus project in a simplified form.
 
 ---
 
 ## Authors
 
-- **میبین عراقی**  
+- **میبین عراقی**
 - **حمیدرضا میرزایی**
 
 **Course:** Software Engineering, 7th Semester, Computer Engineering Undergraduate Program
