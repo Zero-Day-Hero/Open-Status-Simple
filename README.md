@@ -14,6 +14,7 @@ It demonstrates web development, UI design, and status monitoring concepts.
 - Built using modern web technologies (Next.js, React, TypeScript, Tailwind CSS)
 
 ---
+## Project Structure
 
 ```text
 src/
