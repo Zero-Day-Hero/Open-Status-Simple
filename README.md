@@ -1,6 +1,6 @@
 # Open Status Simple
 
-**Open Status Simple** is a simplified monitoring dashboard inspired by the [OpenStatus](https://github.com/openstatusHQ/openstatus) project.  
+**Open Status Simple** is a simplified monitoring dashboard inspired by the [OpenStatus](https://www.openstatus.dev) project.  
 This project was developed as a university assignment to demonstrate web development, UI design, and status monitoring concepts.
 
 ---
@@ -22,6 +22,7 @@ src/
   components/ # UI components
   hooks/      # Custom React hooks
   lib/        # Utilities and helper functions
+```
 
 
 ---
